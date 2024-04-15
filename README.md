@@ -4,3 +4,5 @@ how to use
 
 1.   chmod +x Gameinstaller.sh
 2.   ./Gameinstaller.sh
+
+# os support 
