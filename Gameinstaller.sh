@@ -7,9 +7,9 @@ R="$(printf '\033[1;31m')"
 ##
 
 # check figlet yay lolcat 
-G1="lib/arch.sh"
-G2="lib/debian.sh"
-G3="lib/redhat.sh"
+G1="arch.sh"
+G2="debian.sh"
+G3="redhat.sh"
 #
 
 # Error run
