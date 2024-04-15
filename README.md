@@ -6,3 +6,6 @@ how to use
 2.   ./Gameinstaller.sh
 
 # os support 
+1. all arch os
+2. debian 11,12,(Trixie)
+3. fedora 38,39
