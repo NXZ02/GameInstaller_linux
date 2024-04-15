@@ -8,4 +8,5 @@ how to use
 # os support 
 1. all arch os
 2. debian 11,12,(Trixie)
-3. fedora 38,39
+3. ubuntu
+4. fedora 38,39
